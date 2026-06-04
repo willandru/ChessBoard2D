@@ -15,3 +15,5 @@
 
 !*.gephi
 !*.png
+
+!CMakeLists.txt
