@@ -1,0 +1,17 @@
+# Ignorar todo
+*
+
+# Permitir directorios
+!*/
+
+# Permitir src completo
+!src/
+!src/**
+
+# Permitir archivos especificos
+!main.cpp
+!README.md
+!.gitignore
+
+!*.gephi
+!*.png
