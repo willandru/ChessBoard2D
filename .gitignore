@@ -2,7 +2,6 @@
 *
 
 # Permitir directorios
-!*/
 
 # Permitir src completo
 !src/
